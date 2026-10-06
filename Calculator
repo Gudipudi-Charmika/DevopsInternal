@@ -1,0 +1,15 @@
+class Calculator
+{
+public static void main(string args())
+{
+int a,b;
+sum=a+b;
+System.out.println(sum);
+difference=a-b;
+System.out.println(difference);
+product=a*b;
+System.out.println(product);
+division=a/b;
+System.out.println(division);
+}
+}
